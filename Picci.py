@@ -143,12 +143,12 @@ def main():
     if psy in ('5', '05'):
     	os.system('clear');print(banner);sep()
     if psy in ('6', '06'):
-    	os.system("xdg-open https://www.facebook.com/ps7c8o.p133h1")
+    	os.system("xdg-open https://www.facebook.com/soikothasansiam1")
     if psy in ('7', '07'):
         time.sleep(2)
         os.system('clear');print(banner);print(' Removing Token .');time.sleep(1);os.system('clear');print(banner);print(' Removing Token ..');time.sleep(1);os.system('clear');print(banner);print(' Removing Token ...');time.sleep(2);os.system('clear');print(banner);print('\033[1;91mToken Removed\033[0m');time.sleep(3);os.system('rm -rf access_token.txt'); version()
     if psy in ('0', '00'):
-        exit('THANKS FOR USING PSYCHO PICCHI TOOL')  
+        exit('THANKS FOR USING SOIKOT PICCHI TOOL')  
     else:
     	print ('        Invalid Select')
     version()
